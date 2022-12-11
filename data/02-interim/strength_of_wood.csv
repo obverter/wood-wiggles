@@ -1,0 +1,55 @@
+﻿species,variant,name,type,compression_fiber_stress_porportional_limit_parallel,compression_maximum_crushing_strength,compression_fiber_stress_proportional_limit_perpendicular,tension_maximum_tensile_strength,maximum_shear_strength,static_bend_fiber_stress_proportional_limit,static_bend_modulus_rupture,static_bend_modulus_elasticity_e6
+Alder,red,Alnus rubra,hardwood,4530,5820,540,420,1080,6900,9800,1.38
+Ash,white,Frxinus americana,hardwood,5790,7410,1410,940,1950,8900,15400,1.77
+Basswood,American,Tilia americana,hardwood,3800,4730,450,350,990,5900,8700,1.46
+Beechwood,American,Fagus grandifolia,hardwood,4880,7300,1250,1010,2010,8700,14900,1.72
+Birch,paper,Betula papyrifera,hardwood,3610,5690,740,-,1210,6900,12300,1.59
+Birch,Yellow,Betula alleghaniensis,hardwood,6130,8170,1190,920,1880,10100,16600,2.01
+Butternut,,Juglans cinera,hardwood,4200,5110,570,440,1170,5700,8100,1.18
+Cherry,Black,Prunus serotina,hardwood,5960,7110,850,560,1700,9000,12300,1.49
+Chestnut,American,Castanea dentata,hardwood,3780,5320,760,460,1080,6100,8600,1.23
+Cottonwood,Eastern,Populus deltoides,hardwood,3490,4910,470,580,930,5700,8500,1.37
+Elm,American,Ulmus ,hardwood,4030,5520,850,660,1510,7600,11800,1.34
+Elm,rock,Ulmus ,thomasii,4700,7050,1520,-,1920,8000,14800,1.54
+Hackberry,,Celtis occidentalis,hardwood,3710,5440,1100,580,1590,5900,11000,1.19
+Hickory,pecan,Carya illinoensis,hardwood,5180,7850,2130,-,2080,9100,13700,1.73
+Hickory,shagbark,Carya ovata,hardwood,6605,9210,2170,-,2430,10700,20200,2.16
+Honeylocust,,Gleditsia triacanthos,hardwood,5250,7500,2280,900,2250,8800,14700,1.63
+Locust,black,Robinia pesudoacacia,hardwood,6800,10180,2260,640,2480,12800,19400,2.05
+Magnolia,southern,Magnolia grandiflora,hardwood,3420,5460,1060,740,1530,6800,11200,1.40
+Maple,red,Acer Rubrum,hardwood,4650,6540,1240,-,1850,8700,13400,1.64
+Maple,sugar,acer saccharum,hardwood,5390,7830,1810,-,2330,9500,15800,1.83
+Oak,black,Quercus velutina,hardwood,4750,6520,1150,-,1910,7900,13900,1.64
+Oak,northern red,Quercus rubra,hardwood,4580,6760,1250,800,1780,8500,14300,1.82
+Oak,post,Quercus stellata,hardwood,3700,6600,1760,780,1840,7600,13200,1.51
+Oak,southern red,Quercus falcata,hardwood,2910,6090,1080,510,1390,6000,10900,1.49
+Oak,white,Quercus alba,hardwood,4760,7440,1070,800,2000,8200,15200,1.78
+Sweetgum,,Liquidambar styraciflua,hardwood,3670,6320,660,760,1600,6600,12500,1.64
+Sycamore,American,Plantanus occidentalis,hardwood,3710,5380,860,720,1470,6400,10000,1.42
+Tupelo,black,Nyssa sylvatica,hardwood,3470,5520,1150,500,1340,7300,9600,1.20
+Walnut,black,Juglans nigra,hardwood,5780,7580,1250,690,1370,10500,14600,1.68
+Poplar,Yellow,Lirodendron tylipifera,hardwood,3730,5540,560,540,1190,6200,10100,1.58
+Baldcypress,,Taxodium distichum,softwood,4740,6360,900,270,1000,7200,10600,1.44
+Cedar,Alaskan,Chamaecyparis nootkatensis,softwood,5210,6310,770,360,1130,7100,11100,1.42
+Cedar,Incense,Libocedrus decurrens,softwood,4760,5200,730,270,880,5900,8000,1.04
+Cedar,Western Red,Thuja Plicata,softwood,4360,5020,610,220,860,5300,7700,1.12
+Fir,Douglas,Pseudotsuga menziesli,softwood,5850,7430,870,340,1160,7800,12200,1.95
+Fir,Blalsam,Albies balsamea,softwood,3970,4530,380,180,710,5200,7600,1.23
+Fir,White,Albies concolor,softwood,3590,5350,600,260,930,6500,9300,1.38
+Hemlock,eastern,Tsuga canadensis,softwood,4020,5410,800,-,1060,6100,8900,1.20
+Hemlock,Western,Tsuga heterophylla,softwood,5340,6210,680,310,1170,6800,10100,1.49
+Larch,western,Larix occidentalis,softwood,5620,8110,980,430,1410,8300,13900,1.96
+Pine,eastern white,Pinus strobus,softwood,3670,4800,440,310,900,5700,8600,1.24
+Pine,jack,Pinus banksiana,softwood,3550,5660,600,420,1170,5800,9900,1.35
+Pine,Lodgepole,pinus contorta,softwood,4310,5370,750,290,880,6700,9400,1.34
+Pine,Ponderosa,pinus ponderosa,softwood,4060,5270,740,400,1160,6300,9200,1.26
+Pine,red,pinus resinosa,softwood,4160,6070,650,460,1210,7000,11000,1.63
+Pine,longleaf,pinus palustris,softwood,6150,8220,950,470,1500,9300,14300,1.93
+Pine,shortleaf,Pinus echinata,softwood,5090,7270,750,470,1390,7700,13100,1.76
+Pine,sugar,Pinus lambertiana,softwood,4140,4770,590,350,1050,5700,8000,1.20
+Pine,western white,pinus monticola,softwood,4480,5620,540,-,850,6200,9500,1.51
+Redwood,old-growth,sequoia sempervirens,softwood,4560,6150,860,240,940,6900,10000,1.34
+spruce,engelman,Picea engelmannli,softwood,3580,4770,540,350,1030,5500,8700,1.28
+Spruce,sitka,Picas sitchensis,softwood,4780,5610,710,370,1150,6700,10200,1.57
+Spruce,White,Picas glauca,softwood,3700,5470,540,360,1080,6500,9800,1.34
+Tamarack,,Larix lariclna,softwood,4780,7160,990,400,1280,8000,11600,1.64
